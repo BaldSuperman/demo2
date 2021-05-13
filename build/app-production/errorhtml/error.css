@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  font-size: 20px;
+  font-weight: 700;
+  margin: 0;
+  height: 45px;
+  width: 97%;
+  align-items: center;
+  border-bottom: 2px solid #eaeaea;
+  padding: 0 20px;
+}
+.content {
+  padding: 0 30px;
+}
+.footer {
+  display: flex;
+  font-size: 13px;
+  margin: 0;
+  height: 45px;
+  width: 96%;
+  align-items: center;
+  border-top: 2px solid #eaeaea;
+  padding: 0 20px;
+  position: absolute;
+  bottom: 0;
+}
